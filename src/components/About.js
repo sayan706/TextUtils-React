@@ -43,7 +43,7 @@ export default function About() {
                   </h2>
                   <div id="collapseOne" className="accordion-collapse collapse show" style= {myStyle} aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                       <div className="accordion-body" style= {myStyle}>
-                          <strong>This is a Text utillity based App.</strong> It is shown by default, until the collapse plugin adds the appropriate classNamees that we use to style each element. These classNamees control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                          <strong>This is a Text utillity based App.</strong> T extUtils is simply a set of utility functions to do operations on String objects. I usually have gone through many projects & I have seen many times in the code there is no use of TextUtils, I am not saying that it's necessary to use it but if we can reduce some extra work so then why not?
                       </div>
                   </div>
               </div>
